@@ -1,4 +1,6 @@
-### Hi there 👋
+### Steven Hopkins
+
+I love solving problems and I am continuously tweaking my solutions for conciseness, functionality and cool factor. Plus it needs to just make sense and be fun.
 
 <!--
 **srhopkins/srhopkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
